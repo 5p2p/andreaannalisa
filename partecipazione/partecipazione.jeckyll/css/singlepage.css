@@ -2,16 +2,6 @@ a, a:visited { outline: none; color: #439BBD; text-decoration: underline; }
 a:hover { outline: none; text-decoration:none; }  
 a:active, a:focus { outline: none; }
 
-code {
-	font-size: 1.2em;
-}
-
-#testo .img-float {
-	width:100%;
-	max-width: 15em;
- 	margin-top: 1.5em;
-}
-
 #testo .img-rounded {
 	width:100%;
 	max-width: 15em;
@@ -25,7 +15,7 @@ code {
 	margin: 0.1em 1em;
  width: 120px;
  height: 120px;
- background-image: url('/img/don-r.png');
+ background-image: url('/img/don.jpg');
  background-size: cover;
  display: inline;
  float: right;
@@ -38,20 +28,28 @@ code {
 	margin: 0.1em 1em;
  width: 120px;
  height: 120px;
- background-image: url('/img/sposo-r.png');
+ background-image: url('/img/sposo.jpg');
  background-size: cover;
  display: inline;
  float: left;
+ border: solid;
+ border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
 }
 
 .img-sposa {
 	margin: 0.1em 1em;
  width: 120px;
  height: 120px;
- background-image: url('/img/sposa-r.png');
+ background-image: url('/img/sposa.jpg');
  background-size: cover;
  display: inline;
  float: right;
+ border: solid;
+ border-radius: 100px;
+  -webkit-border-radius: 100px;
+  -moz-border-radius: 100px;
 }
 
 
