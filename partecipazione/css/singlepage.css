@@ -25,7 +25,7 @@ code {
 	margin: 0.1em 1em;
  width: 120px;
  height: 120px;
- background-image: url('/img/don-r.png');
+ background-image: url('/partecipazione/img/don-r.png');
  background-size: cover;
  display: inline;
  float: right;
@@ -38,7 +38,7 @@ code {
 	margin: 0.1em 1em;
  width: 120px;
  height: 120px;
- background-image: url('/img/sposo-r.png');
+ background-image: url('/partecipazione/img/sposo-r.png');
  background-size: cover;
  display: inline;
  float: left;
@@ -48,7 +48,7 @@ code {
 	margin: 0.1em 1em;
  width: 120px;
  height: 120px;
- background-image: url('/img/sposa-r.png');
+ background-image: url('/partecipazione/img/sposa-r.png');
  background-size: cover;
  display: inline;
  float: right;

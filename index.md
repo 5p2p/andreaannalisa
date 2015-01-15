@@ -39,6 +39,16 @@ luogo: torino
 <img src='img/loader.gif' data-src="gallery/web-28.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/web-29.jpg" class="" />
 <img src='img/loader.gif' data-src="gallery/web-30.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-31.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-32.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-33.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-34.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-35.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-36.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-37.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-38.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-39.jpg" class="" />
+<img src='img/loader.gif' data-src="gallery/web-40.jpg" class="" />
 
 <br>
 
